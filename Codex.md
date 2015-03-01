@@ -96,15 +96,15 @@ None
 
 # Monthly Reports
 
-### 2015: +
+### 02015: 
 
-##### February 2015
-*Last month summary:* 
+##### 02015/03
+*Last month summary:* High stress, low mood, diminished motivation
 
-*Weight:* 
+*Weight:* 76.4kg
 
-*Outcome of previous goal:* 
+*Outcome of previous goal:* N/A
 
-*New goal:* 
+*New goal:* Take a photo every day
 
-*Interests:*
+*Interests:* Self-documentation, sleep improvement, energy improvement
