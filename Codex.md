@@ -108,3 +108,14 @@ None
 *New goal:* Take a photo every day
 
 *Interests:* Self-documentation, sleep improvement, energy improvement
+
+##### 02015/04
+*Last month summary:* Stress relieved, depressed mood, ill a lot
+
+*Weight:* 77.8kg
+
+*Outcome of previous goal:* Successful. I have taken a photo every morning at mostly the same time
+
+*New Goal:* Find a woodworking shop/class
+
+*Interests:* Hops cultivation, depression, custom bicycles
