@@ -42,49 +42,44 @@ Stolen from [Buster Benson](https://github.com/busterbenson/public/blob/master/C
 
 
 ## Beliefs
-(TBD on yearly)
+Knowledge is important, but not as important as connection.
 
 ### On the purpose of life
-1. TBD
+1. To be kind and joyful
+2. Experience things
 
 ### On personal conduct
-1. TBD
+1. Being around like-minded people is great
+2. Your friends and family are important
 
 ### On Morality
-1. TBD
+1. Treat all things the way you would want to be treated
 
 ### On Spirituality
-1. TBD
+1. There is no god, but the universe is infinite
+2. Meditation really helps
 
 ### On Science & The Universe
-1. TBD
+1. Through knowledge we will understand more of the universe but there will never be a time where humanity knows everything
 
 ### On Health
-1. TBD
+1. Eat well
+2. Get exercise
+3. Spend time in nature
 
 ### On Technology
-1. TBD
+1. Use tools, don't be used by them
+2. The internet is an amazing and horrible place
 
 ### On The Self
-1. TBD
+1. The depth of my mind is incredible
 
 ### On Privacy
-1. TBD
+1. We all have a right to privacy
+2. Public institutions, however, do not have that right
 
 ### On The Future Of Earth (2100)
-1. TBD
-
-### On Biases
-1. TBD
-
-### On Love
-1. TBD
-
-### Meta
-1. TBD
-
-### Wagers
-None
+1. Not hopeful that we will not melt the icecaps and flood the world
 
 ## Personal Canon
 
@@ -119,3 +114,15 @@ None
 *New Goal:* Find a woodworking shop/class
 
 *Interests:* Hops cultivation, depression, custom bicycles
+
+##### 02015/05
+
+*Last month summary:* Drank a lot, was ill more, was still depressed
+
+*Weight:* 77.7kg
+
+*Outcome of previous goal:* Partially successful. Found, but didn't enroll
+
+*New goal:* No drinking
+
+*Interests:* Sleep improvement, physical fitness
